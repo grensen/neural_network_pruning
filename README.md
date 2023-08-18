@@ -1,5 +1,17 @@
 # Neural Network with Unstructured Pruning Using C#
 
+## Network Structures
+<p align="center">
+  <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/network_structures.png?raw=true">
+</p>
+
+
+## Jagged Array
+<p align="center">
+  <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/array_type.png?raw=true">
+</p>
+
+
 ## The Demo
 <p align="center">
   <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/pruning_demo.png?raw=true">
