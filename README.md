@@ -2,7 +2,7 @@
 
 ## The Pruning Idea
 <p align="center">
-  <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/network_structures.png?raw=true">
+  <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/pruning_idea.png?raw=true">
 </p>
 
 ## Network Structures
