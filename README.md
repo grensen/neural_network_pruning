@@ -1,5 +1,10 @@
 # Neural Network with Unstructured Pruning Using C#
 
+## The Pruning Idea
+<p align="center">
+  <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/network_structures.png?raw=true">
+</p>
+
 ## Network Structures
 <p align="center">
   <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/network_structures.png?raw=true">
