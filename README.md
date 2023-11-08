@@ -13,7 +13,7 @@
 
 ## Jagged Array
 <p align="center">
-  <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/array_type.png?raw=true">
+  <img src="https://github.com/grensen/neural_network_pruning/blob/main/figures/array_type_fixed.png?raw=true">
 </p>
 
 
